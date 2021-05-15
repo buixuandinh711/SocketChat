@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Socket Chat Client Side</string>
+    <string name="edittext_enter_message">Enter your message</string>
+    <string name="button_send_message">Send</string>
+    <string name="textview_login_title">Login</string>
+    <string name="edittext_username">Username</string>
+    <string name="edittext_password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="button_register">Register</string>
+    <string name="menu_item_change_ip">Change Server IP</string>
+    <string name="edittext_server_ip">Enter Server IP Address</string>
+    <string name="button_connect">Connect</string>
+    <string name="textview_server">Connect To Server</string>
+</resources>

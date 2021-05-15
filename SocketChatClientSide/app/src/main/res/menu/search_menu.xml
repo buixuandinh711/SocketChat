@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/itemMenuSearch"
+        android:title="Search"
+        android:icon="@drawable/icon_search"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+
+        />
+
+    <item
+        android:id="@+id/itemMenuReconnect"
+        android:title="Reconnect" />
+
+    <item
+        android:id="@+id/itemMenuLogout"
+        android:title="Log out" />
+
+</menu>
